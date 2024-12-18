@@ -1,0 +1,38 @@
+/* style.css */
+
+h3{
+    margin-left: 500px;
+}
+h4{
+    text-align: center;
+}
+.total-revenue {
+    background-color: #ff69b4; /* Màu hồng */
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px; /* Bo góc */
+    text-align: center;
+}
+
+.total-revenue1 {
+    background-color: #ff9999; /* Màu hồng */
+    margin-top: 50px;
+    width: 50px;
+    padding: 20px;
+    border-radius: 10px; /* Bo góc */
+    text-align: center;
+}
+.total-revenue11 {
+    background-color: #66b3ff; /* Màu hồng */
+    margin-top: 50px;
+    width: 50px;
+    padding: 20px;
+    border-radius: 10px; /* Bo góc */
+    text-align: center;
+}
+
+.my-chart {
+    margin-top: 20px; /* Tăng khoảng cách giữa tổng doanh thu và biểu đồ */
+}
+
+/* Các định dạng khác có thể được thêm vào theo nhu cầu của bạn */
